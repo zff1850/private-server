@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "Server is Offline!",
   "message": "Hey user",
   "message_enabled": true
