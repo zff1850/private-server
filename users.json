@@ -1,0 +1,25 @@
+{
+  "users": {
+    "testuser": {
+      "password": "testpass123",
+      "expiry_date": "2027-12-31",
+      "device_id": "device123",
+      "active": true,
+      "test_account": false
+    },
+    "testkey": {
+      "password": "testkey123",
+      "expiry_date": "2025-12-31",
+      "device_id": null,
+      "active": true,
+      "test_account": true
+    },
+    "admin": {
+      "password": "admin123",
+      "expiry_date": "2026-12-31",
+      "device_id": "admin_device",
+      "active": true,
+      "test_account": false
+    }
+  }
+}
